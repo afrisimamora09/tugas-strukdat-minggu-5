@@ -1,0 +1,7 @@
+Penjelasan jumlah pass
+
+Input 1: [5, 1, 4, 2, 8]
+Array belum terurut sehingga perlu beberapa pass untuk memindahkan elemen besar ke belakang
+
+Input 2: [1, 2, 3, 4, 5]
+Array sudah terurut sehingga tidak ada swap di pass pertama dan algoritma berhenti maka karena itu jumlah pass lebih sedikit
