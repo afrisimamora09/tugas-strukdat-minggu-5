@@ -1,0 +1,2 @@
+Mengapa Merge Sort lebih cepat?
+karena menggunakan strategi divide and conquer yang menghasilkan kompleksitas O(n log n), sedangkan metode brute force memiliki kompleksitas O(n²). Saat ukuran data meningkat, jumlah operasi pada merge sort bertambah jauh lebih lambat sehingga waktu eksekusinya lebih efisien.
